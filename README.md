@@ -1,9 +1,9 @@
 # Bienvenue sur mon profil GitHub !
-Je suis Kévin LEDEZ, En reconversion professionnelle et actuellement en formation en Développement Web et Web Mobile chez Simplon.co.
+Je suis Théo Couvelard, actuellement en formation en Développement Web et Web Mobile chez Simplon.co.
 
 ## Quelques stats :
 ![Mes statistiques](https://github-readme-stats.vercel.app/api?username=theo02-12&show_icons=true&theme=gruvbox&count_private=true)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-ledez&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theo02-12&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Langages et outils :
 
