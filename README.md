@@ -1,6 +1,9 @@
 # Bienvenue sur mon profil GitHub !
 Je suis Théo Couvelard, actuellement en formation en Développement Web et Web Mobile chez Simplon.co.
 
+Mon Portfolio juste ici ⬇️ <br>
+<a href="https://theo02-12.github.io/cv-website/">CV-Théo</a>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/theo02-12/count.svg" />
