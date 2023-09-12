@@ -10,7 +10,7 @@ Mon CV juste ici ⬇️ <br>
 </p>
 
 ## Quelques stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Theo02-12&theme=dark)](https://git.io/streak-stats)<br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Theo02-12)](https://git.io/streak-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theo02-12&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Langages et outils :
