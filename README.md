@@ -10,8 +10,9 @@ Mon CV juste ici ⬇️ <br>
 </p>
 
 ## Quelques stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Theo02-12)](https://git.io/streak-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theo02-12&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=Theo02-12&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Theo02-12&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Theo02-12&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Langages et outils :
 
