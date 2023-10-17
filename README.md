@@ -23,7 +23,7 @@ Mon CV juste ici ⬇️ <br>
 
 - 👋 Hi, I’m @Theo02-12
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript, ReactJS, NodeJs
+- 🌱 I’m currently learning TypeScript, Next.JS,  React.JS, Node.Js
 - 📫 You can reach me on my LinkedIn: https://www.linkedin.com/in/théo-couvelard-4089111b5/
 
 <!---
