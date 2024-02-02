@@ -2,8 +2,8 @@
 
 Hello ! Je suis Théo Couvelard, actuellement en formation en Développement Web et Web Mobile chez Simplon
 
-Mon CV juste ici ⬇️ <br>
-<a href="https://nextjs-portfolio-red-beta.vercel.app/">Mon Portfolio !</a>
+Mon Portfolio juste ici ⬇️ <br>
+<a href="https://nextjs-portfolio-red-beta.vercel.app/">Portfolio !</a>
 
 <p align="center"> 
   Visitor count<br>
