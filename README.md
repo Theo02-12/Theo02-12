@@ -3,7 +3,7 @@
 Hello ! Je suis Théo Couvelard, actuellement en formation en Développement Web et Web Mobile chez Simplon
 
 Mon Portfolio juste ici ⬇️ <br>
-<a href="https://nextjs-portfolio-red-beta.vercel.app/">Portfolio !</a>
+<a href="https://nextjs-portfolio-red-beta.vercel.app/">Clique ici !</a>
 
 <p align="center"> 
   Visitor count<br>
@@ -11,11 +11,11 @@ Mon Portfolio juste ici ⬇️ <br>
 </p>
 
 ## Quelques stats :
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Theo02-12&theme=tokyonight&locale=fr&exclude_days=Sun%2CSat)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Theo02-12&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Langages et outils :
-
 
 <p align="left"> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>&nbsp;&nbsp;
@@ -31,13 +31,9 @@ Mon Portfolio juste ici ⬇️ <br>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 
-
-
-
-
 - 👋 Hi, I’m @Theo02-12
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning TypeScript, Next.JS,  React.JS, Node.Js
+- 🌱 I’m currently learning TypeScript, Next.JS, React.JS, Node.Js
 - 📫 You can reach me on my LinkedIn: https://www.linkedin.com/in/théo-couvelard-4089111b5/
 
 <!---
