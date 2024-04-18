@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub !
 
-Hello ! Je suis Théo Couvelard, actuellement en formation en Développement Web et Web Mobile chez Simplon
+Hello ! Je suis Théo Couvelard, actuellement en formation de Concepteur Développeur d'Applications chez Simplon
 
 Mon Portfolio juste ici ⬇️ <br>
 <a href="https://nextjs-portfolio-red-beta.vercel.app/">Clique juste ici !</a>
